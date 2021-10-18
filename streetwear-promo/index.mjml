@@ -1,0 +1,133 @@
+<mjml>
+  <mj-body background-color="#d6dde5">
+    <mj-section background-color="black">
+      <mj-column width="50%">
+      <!-- <mj-navbar-link href="#" src="https://i.imgur.com/yC6ANV4.png" color="#000000" alt="Racoon logo" align="center" padding="10px">GOAT</mj-navbar-link> -->
+        <mj-image href="#" width="128px" src="https://cdn.shopify.com/s/files/1/0866/4890/files/logo_2.png?v=1571245189" alt="Goat logo" align="center" padding="10px"></mj-image>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-navbar base-url="#" hamburger="hamburger" ico-color="white" padding-top="5px">
+          <mj-navbar-link href="#" color="white">home</mj-navbar-link>
+          <mj-navbar-link href="#" color="white">shop</mj-navbar-link>
+          <mj-navbar-link href="#" color="white">contact</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="white" padding-bottom="0px" padding-top="0">
+
+      <mj-column>
+        <mj-image src="https://cdn.shopify.com/s/files/1/0866/4890/files/vlone-banner_80ecc086-8694-4735-b995-8af01023e832.jpg?v=1628101725" alt="Clothes set" align="center" border="none"  padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="black" padding-bottom="0px" padding-top="0">
+      <mj-column>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding-bottom="20px">
+      <mj-column vertical-align="bottom">
+        <mj-image src="https://image.goat.com/750/attachments/product_template_additional_pictures/images/060/048/777/original/815399_01.jpg.jpeg?1631034226" alt="Chesterk tank" align="center" border="none" width="200px" padding-left="0px" padding-right="0px" padding-bottom="20px" padding-top="30px"></mj-image>
+        <mj-text font-weight="bold" align="center" color="#000" font-size="15px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p>Fear of God Essentials 3 Pack</p>
+          <p style="color: rgb(250, 135, 57);">$130</p>
+        </mj-text>
+        <mj-button background-color="#000" color="#fff" font-size="13px" align="center" padding="15px 30px" border-radius="3px" href="#" padding-bottom="10px" padding-top="0">BUY NOW</mj-button>
+      </mj-column>
+      <mj-column vertical-align="bottom">
+        <mj-image src="https://image.goat.com/750/attachments/product_template_additional_pictures/images/052/793/879/original/755428_01.jpg.jpeg?1617642146" alt="Beyond backpack" align="center" border="none" width="200px" padding-left="0px" padding-right="0px" padding-bottom="20px"></mj-image>
+        <mj-text font-weight="bold" align="center" color="#000" font-size="15px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p>Cactus Jack by Travis Scott</p>
+          <p style="color: rgb(250, 135, 57);">$300</p>
+        </mj-text>
+        <mj-button background-color="#000" color="#fff" font-size="13px" align="center" padding="15px 30px" border-radius="3px" href="#" padding-bottom="10px" padding-top="0">BUY NOW</mj-button>
+      </mj-column>
+      <mj-column vertical-align="bottom">
+        <mj-image src="https://image.goat.com/750/attachments/product_template_pictures/images/054/163/162/original/767427_00.png.png" alt="BAPE x Dragon Ball" align="center" border="none" width="200px" padding-left="0px" padding-right="0px" padding-bottom="20px" padding-top="30px"></mj-image>
+        <mj-text font-weight="bold" align="center" color="#000" font-size="15px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0px">
+          <p>BAPE x Dragon Ball Baby Milo</p>
+          <p style="color: rgb(250, 135, 57);">$1201</p>
+        </mj-text>
+        <mj-button background-color="#000" color="#fff" font-size="13px" align="center" padding="15px 30px" border-radius="3px" href="#" padding-bottom="10px" padding-top="0">BUY NOW</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding-bottom="20px">
+      <mj-column vertical-align="bottom">
+        <mj-image src="https://image.goat.com/750/attachments/product_template_additional_pictures/images/054/788/198/original/771531_01.jpg.jpeg?1621297862" alt="Verdant cap" align="center" border="none"width="208px" padding-left="0px" padding-right="0px" padding-bottom="20px" padding-top="20px"></mj-image>
+        <mj-text font-weight="bold" align="center" color="#000" font-size="15px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p>BAPE x OVO 1st Camo Snow Board Jacket 'Yellow'</p>
+          <p style="color: rgb(250, 135, 57);">$815</p>
+        </mj-text>
+        <mj-button background-color="#000" color="#fff" font-size="13px" align="center" border="none" padding="15px 30px" border-radius="3px" href="#" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="0">BUY NOW</mj-button>
+      </mj-column>
+      <mj-column vertical-align="bottom">
+        <mj-image src="https://image.goat.com/750/attachments/product_template_additional_pictures/images/059/428/406/original/810965_01.jpg.jpeg?1629929062" alt="Blake polo shirt" align="center" border="none" width="208px" padding-left="0px" padding-right="0px" padding-bottom="20px" padding-top="20px"></mj-image>
+        <mj-text font-weight="bold" align="center" color="#000" font-size="15px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p>Ambush Patchwork Sashiko Jacket 'White'</p>
+          <p style="color: rgb(250, 135, 57);">$3205</p>
+        </mj-text>
+        <mj-button background-color="#000" color="#fff" font-size="13px" align="center" padding="15px 30px" border-radius="3px" href="#" padding-bottom="10px" padding-top="0">BUY NOW</mj-button>
+      </mj-column>
+      <mj-column vertical-align="bottom">
+        <mj-image src="https://image.goat.com/750/attachments/product_template_additional_pictures/images/054/163/158/original/767429_01.jpg.jpeg?1620147894" alt="Sketch floral" align="center" border="none" width="208px" padding-left="0px" padding-right="0px" padding-bottom="20px" padding-top="20px"></mj-image>
+        <mj-text font-weight="bold" align="center" color="#000" font-size="15px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p>BAPE x Kid Cudi Shark Full Zip Hoodie 'Navy'</p>
+          <p style="color: rgb(250, 135, 57);">$599</p>
+        </mj-text>
+        <mj-button background-color="#000" color="#fff" font-size="13px" align="center" padding="15px 30px" border-radius="3px" href="#" padding-bottom="10px" padding-top="0">BUY NOW</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#000" padding-bottom="0px" padding-top="0">
+      <mj-column>
+        <mj-image  href="#" src="https://cdn.karmaloopassets.com/media/gene-cms/n/e/newkl_12__612x591.jpg" alt="Man 1" width="301px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+      </mj-column>
+      <mj-column width="50%">
+                <mj-image href="#" src="https://cdn.karmaloopassets.com/media/gene-cms/n/e/newkl_08__612x591_1.jpg" alt="Man 1" width="301px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#2f323b" padding-bottom="0px" padding-top="0">
+      <mj-column>
+        <mj-image href="#"  src="https://cdn.karmaloopassets.com/media/gene-cms/n/e/newkl_13__612x591.jpg" alt="Man 2" align="center" border="none" width="302px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image href="#"  src="https://cdn.karmaloopassets.com/media/gene-cms/n/e/newkl_05__612x591_1.jpg" alt="Man 2" align="center" border="none" width="302px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#000" padding-bottom="0px" padding-top="0">
+      <mj-column>
+        <mj-image src="https://cdn.shopify.com/s/files/1/0866/4890/files/supreme-t.jpg?v=1602548682" alt="Clothes set" align="center" border="none"  padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding-bottom="20px" padding-top="20px">
+      <mj-column>
+        <mj-image src="https://cdn.shopify.com/s/files/1/0866/4890/products/SupremeScratchTee-White_1024x1024.jpg?v=1604006222" alt="Topaz C3 shoes" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0"></mj-image>
+        <mj-text align="center" color="#000" font-size="15px" font-weight="bold" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p>Supreme Scratch Tee- White </p>
+          <p style="color: rgb(250, 135, 57);">70&#x20AC;</p>
+        </mj-text>
+        <mj-button background-color="#000" color="#fff" font-size="13px" align="center" padding="15px 30px" border-radius="3px" href="#" padding-bottom="10px" padding-top="0">BUY NOW</mj-button>
+      </mj-column>
+       <mj-column>
+        <mj-image src="https://cdn.shopify.com/s/files/1/0866/4890/products/bp_1024x1024.jpg?v=1555302408" alt="Topaz C3 shoes" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0"></mj-image>
+        <mj-text align="center" color="#000" font-size="15px" font-weight="bold" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p>Supreme FW18 Backpack- Black </p>
+          <p style="color: rgb(250, 135, 57);">70&#x20AC;</p>
+        </mj-text>
+        <mj-button background-color="#000" color="#fff" font-size="13px" align="center" padding="15px 30px" border-radius="3px" href="#" padding-bottom="10px" padding-top="0">BUY NOW</mj-button>
+      </mj-column>
+    </mj-section>
+   
+    <mj-section background-color="#000" padding-bottom="20px" padding-top="0">
+      <mj-column>
+        <mj-image width="128px" src="https://cdn.shopify.com/s/files/1/0866/4890/files/logo_2.png?v=1571245189" alt="Racoon logo" align="center" border="none" width="180px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="10px"></mj-image>
+      </mj-column>
+
+      <mj-column>
+        <mj-social padding-top="20px">
+          <mj-social-element name="facebook" href="[[SHORT_PERMALINK]]"></mj-social-element>
+          <mj-social-element name="twitter" href="[[SHORT_PERMALINK]]"></mj-social-element>
+          <mj-social-element name="google" href="[[SHORT_PERMALINK]]"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="20px" padding-top="0px"></mj-section>
+  </mj-body>
+</mjml>
